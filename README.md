@@ -36,8 +36,6 @@ Copy code
 streamlit run app.py
 Usage
 Upload PDFs:
-
-Open your browser and go to http://localhost:8501.
 Upload PDF documents through the Streamlit interface.
 Start Querying:
 
